@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+nbs/data/
+*.pyc
+*.h5
+.DS_Store
